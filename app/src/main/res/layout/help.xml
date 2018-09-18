@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:layout_marginTop="30dp"
+        >
+        <TextView
+            android:layout_width="170dp"
+            android:layout_height="100dp"
+            android:text="Barmulla"
+            android:fontFamily="sans-serif"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:background="@drawable/border"
+
+            android:gravity="center"
+
+
+            />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="9596767717"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:background="@drawable/border"
+            android:gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border">
+        <TextView
+            android:layout_width="170dp"
+            android:layout_height="100dp"
+            android:text="Srinagar"
+            android:textSize="20dp"
+            android:background="@drawable/border"
+            android:textColor="#000000"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="941900023"
+            android:textColor="#000000"
+            android:background="@drawable/border"
+            android:textSize="20dp"
+            android:gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border">
+        <TextView
+            android:layout_width="170dp"
+            android:layout_height="100dp"
+            android:text="Anantnag"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:background="@drawable/border"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="9419051940"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:background="@drawable/border"
+            android:textColor="#000000"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border">
+        <TextView
+            android:layout_width="170dp"
+            android:layout_height="100dp"
+            android:text="Budgam"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:background="@drawable/border"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="019512255207"
+            android:textSize="20dp"
+            android:background="@drawable/border"
+            android:textColor="#000000"
+            android:gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border">
+        <TextView
+            android:layout_width="170dp"
+            android:layout_height="100dp"
+            android:text="Kulgam"
+            android:textSize="20dp"
+            android:background="@drawable/border"
+            android:textColor="#000000"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:background="@drawable/border"
+            android:textColor="#000000"
+            android:text="9419041660"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+</LinearLayout>
